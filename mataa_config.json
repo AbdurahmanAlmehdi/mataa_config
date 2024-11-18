@@ -1,3 +1,23 @@
 {
-  "isMaintenance": true
+  "maintenance": {
+    "enabled": false,
+    "message": "We are currently undergoing maintenance. Please check back later.",
+    "platforms": ["android", "ios"]
+  },
+  "versions": {
+    "android": {
+      "minVersion": "2.3.2",
+      "currentVersion": "2.3.2",
+      "forceUpdate": true,
+      "autoUpdate": false,
+      "updateMessage": "A new version is available. Please update to continue using the app."
+    },
+    "ios": {
+      "minVersion": "2.3.2",
+      "currentVersion": "2.3.2",
+      "forceUpdate": true,
+      "autoUpdate": false,
+      "updateMessage": "A new version is available. Please update to continue using the app."
+    }
+  }
 }
