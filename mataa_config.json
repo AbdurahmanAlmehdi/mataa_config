@@ -15,7 +15,7 @@
     "ios": {
       "minVersion": "2.3.2",
       "currentVersion": "2.3.2",
-      "forceUpdate": true,
+      "forceUpdate": false,
       "autoUpdate": false,
       "updateMessage": "A new version is available. Please update to continue using the app."
     }
