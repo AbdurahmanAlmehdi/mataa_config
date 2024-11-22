@@ -13,7 +13,7 @@
       "updateMessage": "A new version is available. Please update to continue using the app."
     },
     "ios": {
-      "minVersion": "2.3.1",
+      "minVersion": "2.3.2",
       "currentVersion": "2.3.1",
       "forceUpdate": false,
       "autoUpdate": false,
