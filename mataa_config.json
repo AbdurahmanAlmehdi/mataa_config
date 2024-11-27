@@ -8,16 +8,16 @@
   "enableFilterByAttribute": true,
   "versions": {
     "android": {
-      "minVersion": "2.4.0",
-      "currentVersion": "2.4.0",
-      "forceUpdate": false,
+      "minVersion": "2.4.1",
+      "currentVersion": "2.4.1",
+      "forceUpdate": true,
       "autoUpdate": false,
       "updateMessage": "A new version is available. Please update to continue using the app."
     },
     "ios": {
-      "minVersion": "2.4.0",
-      "currentVersion": "2.4.0",
-      "forceUpdate": false,
+      "minVersion": "2.4.1",
+      "currentVersion": "2.4.1",
+      "forceUpdate": true,
       "autoUpdate": false,
       "updateMessage": "A new version is available. Please update to continue using the app."
     }
