@@ -4,7 +4,7 @@
     "message": "We are currently undergoing maintenance. Please check back later.",
     "platforms": ["android", "ios"]
   },
-  "enableFilterSortBy": false,
+  "enableFilterSortBy": true,
   "enableFilterByAttribute": false,
   "versions": {
     "android": {
