@@ -8,8 +8,8 @@
     "minimumAmountMultiple": 2,
     "walletMessage":"الدفع عن طريق المحفظة متوقف حاليا لغرض التطوير والتحسين",
     "enableWallet" : false,
-    "minimumAmount" : 200,
-  }
+    "minimumAmount" : 200
+  },
   "enableFilterSortBy": false,
   "enableFilterByAttribute": false,
   "versions": {
