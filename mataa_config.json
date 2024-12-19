@@ -4,6 +4,12 @@
     "message": "We are currently undergoing maintenance. Please check back later.",
     "platforms": ["android", "ios"]
   },
+  "wallet":{
+    "minimumAmountMultiple": 2,
+    "walletMessage":"الدفع عن طريق المحفظة متوقف حاليا لغرض التطوير والتحسين",
+    "enableWallet" : false,
+    "minimumAmount" : 200,
+  }
   "enableFilterSortBy": false,
   "enableFilterByAttribute": false,
   "versions": {
