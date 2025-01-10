@@ -14,7 +14,7 @@
   "enableFilterByAttribute": false,
   "versions": {
     "android": {
-      "minVersion": "2.4.5",
+      "minVersion": "2.5.0",
       "currentVersion": "2.5.0",
       "forceUpdate": true,
       "autoUpdate": false,
