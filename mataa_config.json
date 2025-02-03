@@ -14,15 +14,15 @@
   "enableFilterByAttribute": false,
   "versions": {
     "android": {
-      "minVersion": "2.6.3",
-      "currentVersion": "2.6.3",
+      "minVersion": "2.6.4",
+      "currentVersion": "2.6.4",
       "forceUpdate": true,
       "autoUpdate": false,
       "updateMessage": "A new version is available. Please update to continue using the app."
     },
     "ios": {
-      "minVersion": "2.6.3",
-      "currentVersion": "2.6.3",
+      "minVersion": "2.6.4",
+      "currentVersion": "2.6.4",
       "forceUpdate": true,
       "autoUpdate": false,
       "updateMessage": "A new version is available. Please update to continue using the app."
