@@ -1,7 +1,7 @@
 {
   "maintenance": {
     "enabled": false,
-    "message": "We are currently undergoing maintenance. Please check back later.",
+    "message": "نحن نقوم حالياً بأعمال صيانة لتحسين تجربتك. نعتذر عن أي إزعاج قد يسببه ذلك. إذا كان لديك أي استفسار، يرجى التواصل معنا",
     "platforms": ["android", "ios"]
   },
   "wallet":{
