@@ -1,31 +1,34 @@
 {
-  "maintenance": {
-    "enabled": false,
-    "message": "نحن نقوم حالياً بأعمال صيانة لتحسين تجربتك. نعتذر عن أي إزعاج قد يسببه ذلك. إذا كان لديك أي استفسار، يرجى التواصل معنا",
-    "platforms": ["android", "ios"]
-  },
-  "wallet":{
-    "minimumAmountMultiple": 2,
-    "walletMessage":"الدفع عن طريق المحفظة متوقف حاليا لغرض التطوير والتحسين",
-    "enableWallet" : true,
-    "minimumAmount" : 200
-  },
-  "enableFilterSortBy": false,
-  "enableFilterByAttribute": false,
-  "versions": {
-    "android": {
-      "minVersion": "3.0.0",
-      "currentVersion": "3.0.0",
-      "forceUpdate": true,
-      "autoUpdate": false,
-      "updateMessage": "A new version is available. Please update to continue using the app."
+    "maintenance": {
+        "enabled": false,
+        "message": "📢 إشعار هام\nلقد تم إصدار نسخة جديدة ومحسّنة من تطبيقنا!\n\nللحصول على أفضل تجربة واستخدام جميع المزايا الجديدة، يُرجى تنزيل التطبيق الجديد من المتجر الآن.\n\nبعد تثبيت النسخة الجديدة، يُرجى حذف هذا التطبيق لتجنب أي ارتباك.\n\nالانتقال إلى التطبيق الجديد",
+        "platforms": [
+            "android",
+            "ios"
+        ]
     },
-    "ios": {
-      "minVersion": "3.0.0",
-      "currentVersion": "3.0.0",
-      "forceUpdate": true,
-      "autoUpdate": false,
-      "updateMessage": "A new version is available. Please update to continue using the app."
+    "wallet": {
+        "minimumAmountMultiple": 2,
+        "walletMessage": "الدفع عن طريق المحفظة متوقف حاليا لغرض التطوير والتحسين",
+        "enableWallet": true,
+        "minimumAmount": 200
+    },
+    "enableFilterSortBy": false,
+    "enableFilterByAttribute": false,
+    "versions": {
+        "android": {
+            "minVersion": "3.0.0",
+            "currentVersion": "3.0.0",
+            "forceUpdate": true,
+            "autoUpdate": false,
+            "updateMessage": "A new version is available. Please update to continue using the app."
+        },
+        "ios": {
+            "minVersion": "3.0.0",
+            "currentVersion": "3.0.0",
+            "forceUpdate": true,
+            "autoUpdate": false,
+            "updateMessage": "A new version is available. Please update to continue using the app."
+        }
     }
-  }
 }
