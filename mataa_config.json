@@ -1,6 +1,6 @@
 {
     "maintenance": {
-        "enabled": false,
+        "enabled": true,
         "message": "📢 إشعار هام\nلقد تم إصدار نسخة جديدة ومحسّنة من تطبيقنا!\n\nللحصول على أفضل تجربة واستخدام جميع المزايا الجديدة، يُرجى تنزيل التطبيق الجديد من المتجر الآن.\n\nبعد تثبيت النسخة الجديدة، يُرجى حذف هذا التطبيق لتجنب أي ارتباك.\n\nالانتقال إلى التطبيق الجديد",
         "platforms": [
             "android",
@@ -17,14 +17,14 @@
     "enableFilterByAttribute": false,
     "versions": {
         "android": {
-            "minVersion": "3.0.0",
+            "minVersion": "2.0.0",
             "currentVersion": "3.0.0",
             "forceUpdate": true,
             "autoUpdate": false,
             "updateMessage": "A new version is available. Please update to continue using the app."
         },
         "ios": {
-            "minVersion": "3.0.0",
+            "minVersion": "2.0.0",
             "currentVersion": "3.0.0",
             "forceUpdate": true,
             "autoUpdate": false,
